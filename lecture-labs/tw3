@@ -1,0 +1,26 @@
+(functional requirements under each sh/user)
+
+Stakeholders?
+	-photographers
+		-photo organisation
+	
+	-editors
+		-grammar & spelling check
+
+	-journalists
+		-access to match photos to articles
+
+Users?
+	-readers
+		-accounts
+		-payment for subscription
+	-all stakeholders
+		-accounts w/ manager access
+		-not able to access reader payment information
+
+System Requirements?
+	-disk storage
+	-web interface
+	-database
+
+	
